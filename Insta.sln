@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Insta", "Insta.pyproj", "{74354A77-B32B-45B5-8FF5-D798F9620288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74354A77-B32B-45B5-8FF5-D798F9620288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74354A77-B32B-45B5-8FF5-D798F9620288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74354A77-B32B-45B5-8FF5-D798F9620288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74354A77-B32B-45B5-8FF5-D798F9620288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2104977B-7711-4739-AB02-B129BD7C4CB8}
+	EndGlobalSection
+EndGlobal
